@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "build-css": "tailwindcss build  src/styles.css -o public/styles.css"
+  },
+  "name": "ninjafood",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "tailwindcss": "^1.4.6"
+  }
+}
